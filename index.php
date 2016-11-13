@@ -62,7 +62,6 @@
 							for aerial photography</h2>
 							<p>Insert some sort of text here (or memes, whatever you like lol).</p>
 						</header>
-						<span class="image featured"><img src="http://cdn.innsight.com/1/assets/themes/berkeleyinn/images/Berkeley-Campinele.jpg" alt="" /></span>
 					</section>
 					<div class="row">
 						<?php include 'getDB.php';?>
