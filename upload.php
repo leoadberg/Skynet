@@ -10,7 +10,19 @@
     echo "The file was not uploaded successfully.";
     echo "(Error Code:" . $_FILES['my-file']['error'] . ")";
   }
+
+if(isset($_POST["submit"])) {
+  $target_dir = "pics/";
+  $target_file = $target_dir . basename($_FILES["fileToUpload"][$_POST["id"]]);
+  if (move_uploaded_file($_FILES["fileToUpload"]["tmp_name"], $target_file)) {
+        echo "The file ". basename( $_FILES["fileToUpload"]["name"]). " has been uploaded.";
+    } else {
+        echo "Sorry, there was an error uploading your file.";
+    }
+}
 ?>
+
+
 
 
 <?php
