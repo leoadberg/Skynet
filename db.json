@@ -1,24 +1,39 @@
 {
 	"posts": [
         {
+            "title": "Berkeley Moon",
+            "desc": "Can I get a picture of the moon for my astronomy class?",
+            "id": 6
+        },
+        {
+            "title": "Tennis Courts",
+            "desc": "Are the tennis courts empty?",
+            "id": 5
+        },
+        {
+            "title": "Underhill",
+            "desc": "What's going on at underhill right now?",
+            "id": 4
+        },
+        {
             "title": "Cool campanile pic",
-			"img": "campanile",
-			"desc": "This cool campanile pic"
+			"desc": "This cool campanile pic",
+            "id": 3
         },
         {
             "title": "Sunset",
-			"img": "sun",
-			"desc": "Hey looks it's the sunset but sun is already set"
+			"desc": "Hey looks it's the sunset but sun is already set",
+            "id": 2
         },
         {
             "title": "Memorial stadium",
-            "img": "",
-            "desc": "CalHacks 3.0 is taking place here right now!"
+            "desc": "CalHacks 3.0 is taking place here right now!",
+            "id": 1
         },
         {
             "title": "Unit 1",
-            "img": "",
-            "desc": "Berkeley's Unit 1"
+            "desc": "Berkeley's Unit 1",
+            "id": 0
         }
     ]
 }
