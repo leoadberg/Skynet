@@ -3,22 +3,22 @@
         {
             "title": "Cool campanile pic",
 			"img": "campanile",
-			"link": "http://www.bewebdeveloper.com/tutorial-about-how-to-create-an-rss-feed-with-php-and-mysql"
+			"desc": "This cool campanile pic"
         },
         {
             "title": "Sunset",
 			"img": "sun",
-			"link": "http://www.bewebdeveloper.com/tutorial-about-crop-photo-using-php-and-jquery"
+			"desc": "Hey looks it's the sunset but sun is already set"
         },
         {
             "title": "Memorial stadium",
             "img": "",
-            "link": "http://www.bewebdeveloper.com/tutorial-about-using-ajax-with-phpmysql"
+            "desc": "CalHacks 3.0 is taking place here right now!"
         },
         {
             "title": "Unit 1",
             "img": "",
-            "link": "http://www.bewebdeveloper.com/tutorial-about-using-ajax-with-native-javascript"
+            "desc": "Berkeley's Unit 1"
         }
     ]
 }
