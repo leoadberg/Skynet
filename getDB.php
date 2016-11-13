@@ -14,10 +14,6 @@ foreach ($posts as $post) {
 			</ul></section></div>
 
 			";
-    echo $post->title;
-    echo "<br>";
-    echo "<img src=\"pics/" . $post->img . ".JPG\" height=\"300\" width=\"400\">";
-    echo "<br>";
 }
 
 ?>
