@@ -6,7 +6,7 @@ $posts = $jfo->posts;
 foreach ($posts as $post) {
 	echo "<div class=\"6u 12u(narrower)\">
 			<section class=\"box special\">
-			<span class=\"image featured\"><img src=pics/" . $post->img . ".JPG\" /></span>
+			<span class=\"image featured\"><img src=pics/small/" . $post->img . ".JPG\" /></span>
 			<h3>" . $post->title . "</h3>
 			<p> . $post->desc . <p>
 			<ul class=\"actions\">
