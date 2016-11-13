@@ -2,22 +2,22 @@
 	"posts": [
         {
             "title": "Cool campanile pic",
-			"img": "http://www.bewebdeveloper.com/images/uploads/how-to-create-an-rss-feed-with-php-and-mysql.jpg",
+			"img": "campanile",
 			"link": "http://www.bewebdeveloper.com/tutorial-about-how-to-create-an-rss-feed-with-php-and-mysql"
         },
         {
             "title": "Sunset",
-			"img": "http://www.bewebdeveloper.com/images/uploads/crop-photo-using-php-and-jquery.jpg",
+			"img": "sun",
 			"link": "http://www.bewebdeveloper.com/tutorial-about-crop-photo-using-php-and-jquery"
         },
         {
             "title": "Memorial stadium",
-            "img": "http://www.bewebdeveloper.com/images/uploads/using-ajax-with-php-mysql.jpg",
+            "img": "",
             "link": "http://www.bewebdeveloper.com/tutorial-about-using-ajax-with-phpmysql"
         },
         {
             "title": "Unit 1",
-            "img": "http://www.bewebdeveloper.com/images/uploads/using-ajax-with-native-javascript.jpg",
+            "img": "",
             "link": "http://www.bewebdeveloper.com/tutorial-about-using-ajax-with-native-javascript"
         }
     ]

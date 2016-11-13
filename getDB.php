@@ -6,6 +6,8 @@ $posts = $jfo->posts;
 foreach ($posts as $post) {
     echo $post->title;
     echo "<br>";
+    echo "<img src=\"pics/" . $post->img . ".JPG\" height=\"300\" width=\"400\">";
+    echo "<br>";
 }
 
 ?>
