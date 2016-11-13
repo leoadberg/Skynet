@@ -57,16 +57,19 @@
 
 					<section class="box special">
 						<header class="major">
-							<h2>The ultimate mobile app
+							<h2>Introducing the ultimate mobile app
 							<br />
 							for aerial photography</h2>
-							<p>Insert some sort of text here (or memes, whatever you like lol).</p>
+							<p>Blandit varius ut praesent nascetur eu penatibus nisi risus faucibus nunc ornare<br />
+							adipiscing nunc adipiscing. Condimentum turpis massa.</p>
 						</header>
-						<span class="image featured"><img src="http://cdn.innsight.com/1/assets/themes/berkeleyinn/images/Berkeley-Campinele.jpg" alt="" /></span>
+						<span class="image featured"><img src="images/pic01.jpg" alt="" /></span>
 					</section>
+
 					<div class="row">
 						<?php include 'getDB.php';?>
 					</div>
+
 
 				</section>
 
@@ -92,7 +95,7 @@
 			<!-- Footer -->
 				<footer id="footer">
 					<ul class="copyright">
-						<li>&copy; Skynet. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+						<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
 					</ul>
 				</footer>
 
